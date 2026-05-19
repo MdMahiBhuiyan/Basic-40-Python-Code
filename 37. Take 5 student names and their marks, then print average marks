@@ -1,0 +1,7 @@
+# 37
+total = 0
+for i in range(5):
+    name = input("Name: ")
+    marks = int(input("Marks: "))
+    total += marks
+print("Average:", total/5)
