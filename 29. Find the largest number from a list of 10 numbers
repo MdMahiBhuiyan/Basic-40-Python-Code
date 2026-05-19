@@ -1,0 +1,3 @@
+# 29. largest from list
+lst = list(map(int,input().replace(' ', '').split(',')))
+print(max(lst))
