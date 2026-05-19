@@ -1,0 +1,5 @@
+# 25. vowels
+s = input()
+for ch in s:
+    if ch.lower() in "aeiou":
+        print(ch)
