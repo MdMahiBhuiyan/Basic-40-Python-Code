@@ -1,0 +1,2 @@
+# 30. smallest from list
+print(min(lst))
