@@ -1,0 +1,10 @@
+# 38
+students = {
+    "A":80,
+    "B":75,
+    "C":90,
+    "D":85,
+    "E":70
+}
+for k,v in students.items():
+    print(k,v)
