@@ -1,0 +1,8 @@
+import builtins
+lst = list(builtins.map(float, input().replace(' ', '').split(',')))
+
+total = builtins.sum(lst)
+average = total / len(lst)
+
+print("Sum:", total)
+print("Average:", average)
