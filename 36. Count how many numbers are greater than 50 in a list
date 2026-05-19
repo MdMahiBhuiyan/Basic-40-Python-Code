@@ -1,0 +1,6 @@
+# 36
+count = 0
+for i in lst:
+    if i > 50:
+        count += 1
+print(count)
