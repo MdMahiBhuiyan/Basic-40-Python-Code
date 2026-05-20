@@ -1,0 +1,199 @@
+============================================================
+       CORE PYTHON — SURPRISE EXAM RESULT
+============================================================
+
+Student Name : Md.Imamul Murshalin Islam Mahi
+Date/Time    : 20/05/2026, 11:22:43
+Submitted At : 20/05/2026, 11:39:40
+Time Taken   : 1017s
+
+------------------------------------------------------------
+SCORE SUMMARY
+------------------------------------------------------------
+Auto-Graded Score : 29 / 30 (97%)
+Correct           : 29
+Wrong             : 1
+Skipped           : 0
+Grade             : A — Excellent
+Practical (P1-P5) : Instructor graded (not included)
+
+------------------------------------------------------------
+QUESTION-BY-QUESTION BREAKDOWN
+------------------------------------------------------------
+
+Q1. Which of the following is a valid Python variable name?
+   Your Answer    : C. _score
+   Correct Answer : C. _score
+   Result         : [  OK  ]
+
+Q2. What is the output?
+   Code: x = 15 | if x > 10: |     print("A") | elif x > 5: |     print("B") | else: |     print("C")
+   Your Answer    : A. A
+   Correct Answer : A. A
+   Result         : [  OK  ]
+
+Q3. What is the output of type(3.14)?
+   Your Answer    : B. &lt;class 'float'&gt;
+   Correct Answer : B. &lt;class 'float'&gt;
+   Result         : [  OK  ]
+
+Q4. What is the result of 7 % 3?
+   Your Answer    : C. 1
+   Correct Answer : C. 1
+   Result         : [  OK  ]
+
+Q5. How do you check if variable x is of type int?
+   Your Answer    : C. isinstance(x, int)
+   Correct Answer : C. isinstance(x, int)
+   Result         : [  OK  ]
+
+Q6. Which is the correct way to check x equals 5 and y less than 10?
+   Your Answer    : C. x==5 and y<10
+   Correct Answer : C. x==5 and y<10
+   Result         : [  OK  ]
+
+Q7. Which keyword is used to define a function in Python?
+   Your Answer    : B. def
+   Correct Answer : B. def
+   Result         : [  OK  ]
+
+Q8. What does range(5) produce?
+   Your Answer    : B. [0,1,2,3,4]
+   Correct Answer : B. [0,1,2,3,4]
+   Result         : [  OK  ]
+
+Q9. What happens when you use pass in an if block?
+   Your Answer    : C. Does nothing
+   Correct Answer : C. Does nothing
+   Result         : [  OK  ]
+
+Q10. What is the result of 10 // 3?
+   Your Answer    : B. 3
+   Correct Answer : B. 3
+   Result         : [  OK  ]
+
+Q11. What is the output?
+   Code: x = "5" | y = 3 | print(x + str(y))
+   Your Answer    : B. 53
+   Correct Answer : B. 53
+   Result         : [  OK  ]
+
+Q12. What does bool(0) return?
+   Your Answer    : B. False
+   Correct Answer : B. False
+   Result         : [  OK  ]
+
+Q13. Which statement immediately exits a loop in Python?
+   Your Answer    : C. break
+   Correct Answer : C. break
+   Result         : [  OK  ]
+
+Q14. What is the output?
+   Code: total = 0 | for n in [1,2,3,4,5]: |     total += n | print(total)
+   Your Answer    : B. 15
+   Correct Answer : B. 15
+   Result         : [  OK  ]
+
+Q15. What is the output?
+   Code: def greet(name="World"): |     return f"Hello, {name}!" |  | print(greet()) | print(greet("Alice"))
+   Your Answer    : A. Hello, World!
+Hello, Alice!
+   Correct Answer : A. Hello, World!
+Hello, Alice!
+   Result         : [  OK  ]
+
+Q16. What is the output?
+   Code: i = 0 | while i < 5: |     i += 1 |     if i == 3: |         continue |     print(i, end=" ")
+   Your Answer    : B. 1 2 4 5
+   Correct Answer : B. 1 2 4 5
+   Result         : [  OK  ]
+
+Q17. What is the output?
+   Code: for i in range(1, 6, 2): |     print(i, end=" ")
+   Your Answer    : A. 1 3 5
+   Correct Answer : A. 1 3 5
+   Result         : [  OK  ]
+
+Q18. What is the output?
+   Code: x = 10 | x += 5 | x *= 2 | print(x)
+   Your Answer    : C. 30
+   Correct Answer : C. 30
+   Result         : [  OK  ]
+
+Q19. What does the return statement do in a function?
+   Your Answer    : B. Exits and optionally sends a value back
+   Correct Answer : B. Exits and optionally sends a value back
+   Result         : [  OK  ]
+
+Q20. What is the output?
+   Code: a = True | b = False | print(a and not b)
+   Your Answer    : A. True
+   Correct Answer : A. True
+   Result         : [  OK  ]
+
+Q21. What is the result of 2 ** 3 in Python?
+   Your Answer    : B. 8
+   Correct Answer : B. 8
+   Result         : [  OK  ]
+
+Q22. Which data type is immutable in Python?
+   Your Answer    : C. tuple
+   Correct Answer : C. tuple
+   Result         : [  OK  ]
+
+Q23. What does type(None) return?
+   Your Answer    : B. &lt;class 'NoneType'&gt;
+   Correct Answer : B. &lt;class 'NoneType'&gt;
+   Result         : [  OK  ]
+
+Q24. Which operator checks if two variables point to the same object?
+   Your Answer    : B. is
+   Correct Answer : B. is
+   Result         : [  OK  ]
+
+Q25. What is the output?
+   Code: age = 20 | result = "Adult" if age >= 18 else "Minor" | print(result)
+   Your Answer    : B. Adult
+   Correct Answer : B. Adult
+   Result         : [  OK  ]
+
+Q26. A loop that keeps running as long as a condition is True is called a ___ loop.
+   Your Answer    : while
+   Correct Answer : while
+   Result         : [  OK  ]
+
+Q27. The keyword used to define a function in Python is ___.
+   Your Answer    : def
+   Correct Answer : def
+   Result         : [  OK  ]
+
+Q28. The % operator is called the ___ operator.
+   Your Answer    : modulus
+   Correct Answer : modulo
+   Result         : [ FAIL ]
+
+Q29. What is the output of len("Python")? Write only the number: ___
+   Your Answer    : 6
+   Correct Answer : 6
+   Result         : [  OK  ]
+
+Q30. list(range(3)) returns: ___
+   Your Answer    : [0, 1, 2]
+   Correct Answer : [0, 1, 2]
+   Result         : [  OK  ]
+
+------------------------------------------------------------
+PRACTICAL TASKS (Instructor to grade manually)
+------------------------------------------------------------
+P1. Variable Swap : _____ / 5
+P2. FizzBuzz : _____ / 5
+P3. Grade Calculator : _____ / 5
+P4. Even Numbers Sum : _____ / 5
+P5. Factorial Function : _____ / 5
+
+Total Practical Score : _____ / 25
+
+============================================================
+Auto Score: 29/25  |  Practical: ___/25  |  TOTAL: ___/50
+============================================================
+Generated by Core Python Exam System
